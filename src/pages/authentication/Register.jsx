@@ -69,7 +69,7 @@ const Register = () => {
       <form onSubmit={handleRegister}>
         <div className="RegisterLoginContainer">
           <div className="RegisterLoginHeader">
-            <div className="text">Register</div>
+            <div className="text-auth">Register</div>
             <div className="underline"></div>
           </div>
           <div className="inputs">

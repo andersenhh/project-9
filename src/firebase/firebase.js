@@ -6,14 +6,14 @@ import { getAuth } from "firebase/auth";
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCtFidFE_UCDtfMiPZjFFtfGRPCRXe9dXg",
-  authDomain: "projek-kelompok-9b9ce.firebaseapp.com",
-  projectId: "projek-kelompok-9b9ce",
-  storageBucket: "projek-kelompok-9b9ce.appspot.com",
-  messagingSenderId: "909067324582",
-  appId: "1:909067324582:web:e5c2b0e0b4784c34b07867"
+  apiKey: "AIzaSyCe7iDXFaGh9Y9iFKLDrwMwDWHlK7ahvUY",
+  authDomain: "fsw34-kelompok2-challenge9.firebaseapp.com",
+  databaseURL: "https://fsw34-kelompok2-challenge9-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "fsw34-kelompok2-challenge9",
+  storageBucket: "fsw34-kelompok2-challenge9.appspot.com",
+  messagingSenderId: "377851811168",
+  appId: "1:377851811168:web:fd5aa04f5a5d1d231a3a05"
 };
-
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);

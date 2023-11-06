@@ -86,7 +86,7 @@ const Login = () => {
       <form onSubmit={handleLogin}>
         <div className="RegisterLoginContainer">
           <div className="RegisterLoginHeader">
-            <div className="text">Login</div>
+            <div className="text-auth">Login</div>
             <div className="underline"></div>
           </div>
           <div className="inputs">
